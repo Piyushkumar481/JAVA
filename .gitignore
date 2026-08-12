@@ -1,0 +1,19 @@
+# Eclipse
+bin/
+.classpath
+.project
+.settings/
+
+# Java compiled files
+*.class
+
+# Maven
+target/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
