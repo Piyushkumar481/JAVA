@@ -15,6 +15,7 @@ class Bank
 	}
 		public void deposit(double amount)
 		{
+			
 			balance=balance+amount;
 			System.out.println("Deposit of "+amount+" is done Successfully");
 			
