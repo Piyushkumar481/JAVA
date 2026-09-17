@@ -7,7 +7,7 @@ class BankAccount
 	private String accountNumber;
 	private double balance;
 	public BankAccount(String accountNumber, double balance) {
-		super();
+		
 		this.accountNumber = accountNumber;
 		this.balance = balance;
 	}
