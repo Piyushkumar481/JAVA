@@ -22,7 +22,7 @@ public class BubbleSort {
 	        {
 	        	for(int j=k+1;j<=a.length-1;j++)
 	        	{
-	        		if(a[k]<a[j])
+	        		if(a[k]>a[j])
 	        		{
 	        			int temp =a[k];
 	        			a[k]=a[j];
